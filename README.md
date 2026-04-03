@@ -16,3 +16,12 @@ Application was not working. I checked logs and found an error.
 # skills
     -Linux troubleshooting
     -Permissions
+
+# Linux troubleshooting day 3
+-Service Failure {Apache}
+   -Problem: Service was not running
+   -cause: apache stopped
+   -fix: used systemctl start apache2
+-Skills:
+   -service troubleshooting
+   -systemctl commands
