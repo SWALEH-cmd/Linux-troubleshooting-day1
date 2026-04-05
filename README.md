@@ -25,3 +25,11 @@ Application was not working. I checked logs and found an error.
 -Skills:
    -service troubleshooting
    -systemctl commands
+# Linux troubleshooting day 4
+-Port and Service issue
+   -problem: Website not loading
+   -cause: Apache service stopped {port 80 not active}
+   -fix: Restarted apache using systemctl
+   # Skills:
+      -Port troubleshooting
+      -Service debugging
