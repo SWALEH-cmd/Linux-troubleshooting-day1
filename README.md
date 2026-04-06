@@ -33,3 +33,12 @@ Application was not working. I checked logs and found an error.
    # Skills:
       -Port troubleshooting
       -Service debugging
+ # Linux troubleshooting day 5
+ -Log Debugging
+    -Problem: Apache failed to start
+    -cause: Invalid configuration
+    -fix: Used journalctl to find error and fixed it
+    #skills:
+      -Troubleshooting
+      -Log analysis
+      -system debugging
