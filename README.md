@@ -42,3 +42,14 @@ Application was not working. I checked logs and found an error.
       -Troubleshooting
       -Log analysis
       -system debugging
+ # Linux troubleshooting day 6
+ -Disk Space Troubleshooting
+   -What i did:
+       .Checked disk usage using df -h
+       .Identified disk usage increase
+       .Created large files to simulate usage
+       .Removed files to free space
+-Skills:
+       .Disk monitoring 
+       .File management
+       .Troubleshooting
