@@ -47,6 +47,22 @@ Application was not working. I checked logs and found an error.
    -What i did:
        .Checked disk usage using df -h
        .Identified disk usage increase
+
+  # Linux troubleshooting day 7
+  -Problem: Apache Service Failed
+  -steps taken: 
+     .Checked service status
+     .Investigated logs using journalctl 
+     .Identified invalid configurations
+     .Fixed configuration
+     .Restarted service
+  -Result
+     .Service restored successfully
+  -Skills
+      .Troubleshootig
+      .Log analysis
+      .Problem solving
+ 
        .Created large files to simulate usage
        .Removed files to free space
 -Skills:
